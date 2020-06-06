@@ -1,5 +1,5 @@
 # EmailApp
-A simple email admin app built from Java
+A simple email admin app built from Java with the task of creating email accounts for new hires.
 
 The application does the following:
 - Generates an email with the following syntax: firstname.lastname@department.company.com
